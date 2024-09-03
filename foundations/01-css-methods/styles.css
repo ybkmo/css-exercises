@@ -1,0 +1,8 @@
+type selector method 
+div {
+    background-color: red;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
